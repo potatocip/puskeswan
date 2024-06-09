@@ -1,4 +1,4 @@
 # Projek_Puskeswan
 Sistem Informasi Pelayanan Puskeswan Laladon Bogor
 
-Menggunakan framework CodeIgniter 3, HTML, PHP, Javascript, dan CSS
+Menggunakan framework CodeIgniter 3, MySQL, HTML, PHP, Javascript, dan CSS

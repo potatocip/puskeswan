@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Local Coffe Web Ekspor
 
 ## Tugas UAS Semester 3
@@ -37,3 +38,9 @@
   ![img](asset/image/Admin.png)
 
 # On Going Update.......
+=======
+# Projek_Puskeswan
+Sistem Informasi Pelayanan Puskeswan Laladon Bogor
+
+Menggunakan framework CodeIgniter 3, MySQL, HTML, PHP, Javascript, dan CSS
+>>>>>>> 1f7f0f4251679d6084a734c3a8f4106b70a356e0

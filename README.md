@@ -7,3 +7,9 @@
 
 - ### CodeIgniter
 - ### Bootstrap
+
+## Bahasa
+- ### PHP
+- ### HTML
+- ### Javascript
+- ### CSS

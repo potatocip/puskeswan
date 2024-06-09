@@ -8,7 +8,8 @@
 - ### CodeIgniter
 - ### Bootstrap
 
-## Bahasa
+## Menggunakan
+- ### MySQL
 - ### PHP
 - ### HTML
 - ### Javascript
